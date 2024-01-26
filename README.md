@@ -48,3 +48,4 @@ Chi tiết cấu hình yêu cầu
 · RAM: 4 GB
 · CPU: Intel Core i5-4460 3.2 Ghz
 · GPU: Nvidia GTX 1050 Ti (VRAM 1 GB)
+ghgfhgfhgfhgfhg
